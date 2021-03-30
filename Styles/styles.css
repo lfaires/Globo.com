@@ -10,7 +10,20 @@
 }
 
 .orange {
-    color: #FF8203;
+    color: #FF7F00;
+}
+
+.blue {
+    color: #0769DE;
+}
+
+.grey {
+    color: #666
+}
+/*--------------------------------*/
+
+.body {
+    font-family: 'Open sans';
 }
 
 .top-content {
@@ -19,6 +32,7 @@
     margin: 0 auto;
     display: flex;
     align-items: center;
+    font-size: 19px;
 }
 
 .top-content > img {
@@ -48,11 +62,12 @@
 }
 
 .g1 {
-    width: 300px;
+    width: 558px;
+    padding-right: 40px;
 }
 
 .ge {
-    width: 300px;
+    width: 219px;
 }
 
 .ge > div {
@@ -60,6 +75,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin: 10px 0;
 }
 
 .ge img, .ent img {
@@ -69,5 +85,5 @@
 }
 
 .ent {
-    width: 300px;
+    width: 219px;
 }
