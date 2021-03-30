@@ -1,37 +1,73 @@
 
-.top {
-    background: blue;
+/*-------------CORES----------*/
+
+.red {
+    color: #CD150B ;
+}
+
+.green {
+    color: #06AA48;
+}
+
+.orange {
+    color: #FF8203;
 }
 
 .top-content {
     width: 1145px;
     height: 103px;
     margin: 0 auto;
-    background: grey;
+    display: flex;
+    align-items: center;
+}
+
+.top-content > img {
+    height: 60px;
+    width: 97px;
+}
+
+.horizontal-separator {
+    height: 1px;
+    width: 100%;
+    background: #E6E6E6;
+}
+
+.vertical-separator {
+    width: 1px;
+    height: 100%;
+    background: #E6E6E6;
 }
 
 .container {
     display: flex;
     justify-content: space-between;
-    align-items: center;
     margin: 0 auto;
-    width: 1135px;
+    width: 1145px;
+    height: 700px;
+    margin-top: 20px;
 }
 
 .g1 {
-    background: red;
-    height: 300px;
     width: 300px;
 }
 
 .ge {
-    background: green;
-    height: 300px;
     width: 300px;
 }
 
+.ge > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.ge img, .ent img {
+    height: 118px;
+    width: 235px;
+    border-radius: 4px;
+}
+
 .ent {
-    background: orange;
-    height: 300px;
     width: 300px;
 }
