@@ -1,0 +1,37 @@
+
+.top {
+    background: blue;
+}
+
+.top-content {
+    width: 1145px;
+    height: 103px;
+    margin: 0 auto;
+    background: grey;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    width: 1135px;
+}
+
+.g1 {
+    background: red;
+    height: 300px;
+    width: 300px;
+}
+
+.ge {
+    background: green;
+    height: 300px;
+    width: 300px;
+}
+
+.ent {
+    background: orange;
+    height: 300px;
+    width: 300px;
+}
