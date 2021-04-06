@@ -85,7 +85,7 @@ h2 {
     justify-content: space-between;
 }
 
-.g1-sub > div {
+li {
     margin-top: 15px;
     width: 171px;
     height: 187px;
@@ -106,18 +106,18 @@ h2 {
     border-radius: 4px;
 }
 
-.ge, .ent {
+.ge, .gshow {
     width: 20%;
 }
 
-.ge > div, .ent > div {
+.ge > li, .gshow > li {
     display: flex;
     flex-direction: column;
     justify-content: center;
     margin: 10px 0;
 }
 
-.ge img, .ent img {
+.ge img, .gshow img {
     height: 118px;
     width: 235px;
     border-radius: 4px;
