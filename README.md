@@ -4,7 +4,7 @@
 
 ![Badge](https://img.shields.io/github/license/lfaires/Projeto001-globo.com)
 
-### ✨ Requisitos
+### ✅ Requisitos
 
 * Aplicar o layout seguindo a imagem fornecida.
 * Utilize a fonte **Open Sans** na página. Como não é uma fonte padrão nos computadores, você terá que importá-la na página. Para isso, pesquise sobre como importar fontes usando o [Google Fonts](https://fonts.google.com/) e utilize na sua página.
