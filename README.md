@@ -17,5 +17,7 @@
 
 ### 🛠 Tecnologias
 
+As seguintes ferramentas foram usadas na construção do projeto:
+
 * HTML5
 * CSS3
