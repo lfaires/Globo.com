@@ -27,8 +27,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Autor
 ---
 
-<![GitHub Logo]("https://avatars.githubusercontent.com/u/81389051?v=4")
-Format: ![Alt Text](url)
+![Image of Yaktocat](https://avatars.githubusercontent.com/u/81389051?v=4)
 
  <sub><b>Luiz Aires</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
 
