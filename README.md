@@ -27,12 +27,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Autor
 ---
 
-![Image of Yaktocat](https://avatars.githubusercontent.com/u/81389051?v=4)
-
- <sub><b>Luiz Aires</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
-
-
-Feito por Luiz Aires 👋🏽 Entre em contato!
+##### Feito por Luiz Aires 👋🏽 Entre em contato!
 
 [![Twitter Badge](https://img.shields.io/badge/-@lfaires4-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lfaires4)](https://twitter.com/lfaires4) 
 [![Linkedin Badge](https://img.shields.io/badge/-Luiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/lfaires4/) 
