@@ -6,7 +6,7 @@
 
 ### ✅ Requisitos
 
-* Aplicar o layout seguindo a imagem fornecida. <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+* Aplicar o layout seguindo a imagem fornecida. <img alt="Figma" src="https://www.figma.com/file/1sS6hNs5HyuNi638NnCHjk/Projeto-Globo.com?node-id=0%3A1g?style=for-the-badge&logo=figma&logoColor=white"/>
 * Utilize a fonte **Open Sans** na página. Como não é uma fonte padrão nos computadores, você terá que importá-la na página. Para isso, pesquise sobre como importar fontes usando o [Google Fonts](https://fonts.google.com/) e utilize na sua página.
 * Ao passar o mouse sobre o texto de um link, este deve ficar ligeiramente mais claro. Dica: pesquise por **filter brightness** para criar esse efeito.
 * Todas as notícias devem ser links. Não é necessário colocar links para as notícias reais, pode ser um link fake (ex: https://globo.com).
