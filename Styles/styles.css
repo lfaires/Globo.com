@@ -57,8 +57,12 @@
     justify-content: space-between;
     margin: 0 auto;
     width: 1145px;
-    height: auto;
+    height: 630px;
     margin-top: 30px;
+}
+
+hgroup {
+    line-height: 60px;
 }
 
 h1{
