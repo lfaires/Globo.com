@@ -1,6 +1,4 @@
-# Projeto 001 - globo.com
-
-## Primeiro projeto do Bootcamp Responde Aí 
+# 1º Projeto - Bootcamp Responde Aí: Globo.com 
 
 ### Recriar a home page da globo.com apenas com HTML5 e CSS3
 
