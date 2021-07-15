@@ -16,3 +16,6 @@
 #### 50% concluído
 
 ### 🛠 Tecnologias
+
+* HTML5
+* CSS3
