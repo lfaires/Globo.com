@@ -30,5 +30,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 #### Feito por Luiz Aires 👋🏽 Entre em contato!
 
 [![Twitter Badge](https://img.shields.io/badge/-@lfaires4-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lfaires4)](https://twitter.com/lfaires4) 
-[![Linkedin Badge](https://img.shields.io/badge/-Luiz-Fernando-Aires-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/lfaires4/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Luiz_Fernando_Aires-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/lfaires4/) 
 [![Gmail Badge](https://img.shields.io/badge/-lfaires@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lfaires@gmail.com)](mailto:lfaires@gmail.com)
