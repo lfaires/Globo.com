@@ -13,7 +13,7 @@
 
 ### Status do Projeto:
 
-#### 50% concluído
+####  100% concluído
 
 ### 🛠 Tecnologias
 
